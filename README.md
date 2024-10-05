@@ -3,7 +3,7 @@
 
 ### Who am I?
 I am a student of computer science.  
-I am a computer lover.
+I am a computer lover.  
 ...
 
 
