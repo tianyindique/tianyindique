@@ -1,5 +1,11 @@
-#                                                                                        Welcome
-## Hi there 👋
+# Welcome
+## Hi there 👋  
+
+### Who am I?
+I am a student of computer science.
+I am a computer lover.
+...
+
 
 <!--
 **tianyindique/tianyindique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
